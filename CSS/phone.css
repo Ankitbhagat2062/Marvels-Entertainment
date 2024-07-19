@@ -1,12 +1,9 @@
 /* Navigation */
-#navbar{
-    flex-direction: column;
-}
-#navbar ul li{
+.navbar ul li{
     padding: 0px 7px;
     font-size: 1rem;
 }
-#navbar ul li a{
+.navbar ul li a{
     padding: 5px 7px;
     font-size: 1rem;
 }
